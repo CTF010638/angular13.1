@@ -1,0 +1,23 @@
+.container{
+    background-color: orange;
+   margin-bottom: 15px; 
+}
+.logo-header{
+    display: flex;
+
+}
+.logo{
+    color: white;
+    margin-left: 20px;
+    text-align: left;
+    font-size: 2em;
+    margin-bottom: 10px;
+
+}
+.header{
+    color: white;
+    margin-left: 1050px;
+    text-align: right;
+   margin-top: 10px;
+
+}

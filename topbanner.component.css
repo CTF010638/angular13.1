@@ -1,0 +1,8 @@
+.container >.banner{
+    background-color: skyblue;
+    width: 50%;
+    height: 120px;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 15px; 
+}
